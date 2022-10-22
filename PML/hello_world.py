@@ -1,9 +1,9 @@
 from datetime import datetime
 
 
-class HelloWorld(object):
-    def __init__(self, message: str) -> None:
-        self.message: str = message
+class HelloWorld:
+    def __init__(self):
+        self.message = 'Data science is fantastic!'
 
-    def __str__(self) -> str:
-        return f'{datetime.now()}:\t{self.message}'
+    def hello(self):
+        print(f'{datetime.now()}:\t{self.message}')
