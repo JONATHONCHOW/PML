@@ -1,8 +1,5 @@
 Hello world
 ===========
 
-Installation
-------------
-
 Start
 -----
