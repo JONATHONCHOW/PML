@@ -19,7 +19,6 @@ Articles
 
    hello_world
 
-
 Indices and tables
 ==================
 
