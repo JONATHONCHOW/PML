@@ -1,13 +1,10 @@
 Hello world
 ===========
 
-Installation
-------------
-
 Start
 -----
 
-We can use the following code
+You can use the following code to start.
 
 >>> from PML.hello_world import HelloWorld
 >>> HelloWorld().hello()

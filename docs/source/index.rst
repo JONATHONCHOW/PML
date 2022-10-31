@@ -17,6 +17,8 @@ Articles
 
 .. toctree::
 
+   usage
+   api
    hello_world
 
 Indices and tables
