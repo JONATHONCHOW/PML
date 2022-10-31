@@ -1,0 +1,29 @@
+﻿hello\_world
+============
+
+.. automodule:: hello_world
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      HelloWorld
+   
+   
+
+   
+   
+   
+
+
+
